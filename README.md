@@ -4,9 +4,9 @@ Simple program which converts nucleotide sequence to amino acid sequences and do
 # Installation
 
 ```bash
-git clone https://github.com/moozeq/B_Codons.git
+git clone https://github.com/moozeq/b-codons.git
 
-cd B_Codons
+cd b-codons
 pip3 install -r requirements.txt
 ```
 
